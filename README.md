@@ -1,5 +1,5 @@
 # notify-send-alternative
-This is a notify-send alternative.  Useful if notify-send isn't working the way you want it to.
+This is a notify-send alternative.
 
 # Dependencies
 `apt install yad`
