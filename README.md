@@ -2,7 +2,7 @@
 This is a notify-send alternative.
 
 # Dependencies
-`apt install yad`
+`sudo apt install yad`
 
 # Usage
 `notify-send.sh 'Hello World!'`
